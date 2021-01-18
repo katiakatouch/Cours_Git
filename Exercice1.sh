@@ -12,6 +12,3 @@ cd MesTps
 mkdir TpsUNIX
 mkdir TpsC
 cd TpsC
-mkdir Executabes
-touch Tp1.c
-touch Tp2.c
